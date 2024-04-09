@@ -1,1 +1,1 @@
-del C:\Program Files (x86)\Zoom
+del C:\Program Files (x86)\Internet Explorer\iexplore.exe
