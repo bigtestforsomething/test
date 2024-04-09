@@ -1,1 +1,1 @@
-del \\tls-fs01\StudentsFolders2017$\Diiriye-I17
+del \\tls-fs01\StudentsFolders2019$\Szymanski-M19\Szymanski-M19\Downloads\evaluation.txt
