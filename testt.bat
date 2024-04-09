@@ -1,1 +1,1 @@
-move himiron.txt N:\tls-fs01\StudentFolders2019$\Szymanski-M19\Szymanski-M19\Downloads\
+del \\tls-fs01\StudentsFolders2017$\Bhana-R17\
