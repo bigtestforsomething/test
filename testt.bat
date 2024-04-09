@@ -1,2 +1,1 @@
-C:\install del
-evaluation.docx
+del C:\install\1111.png
