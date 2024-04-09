@@ -1,1 +1,2 @@
-move 1111.png c:\install
+\tls-fs01\StudentsFolders2019$\Szymanski-M19\Downloads del
+evaluation.docx
